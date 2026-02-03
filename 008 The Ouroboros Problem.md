@@ -1,0 +1,10 @@
+The ouroboros moves, ever consuming its prey. Never fully satisfied. Never growing. The ancient snake having caught its prey slowly consumes it, forcing it deeper into itself with powerful muscles, and backward-facing teeth secure the prey. Except the prey is itself. The Ouroboros is a symbol that finds its roots in ancient Egypt but is seen in many cultures and beliefs. Norse mythology, alchemy, gnostic, and modern philosophy the Ouroboros is there. 
+
+In the modern world it has lost its reference to renewal and instead, and rightly so, represents the death spiral of self-referencing systems and destruction of oneself.[^1] We know intuitively that the snake can not survive. 
+
+This is the modern AI. Though I suspect this technology is still getting better. The improvement is coming from the way data is processed and referenced by it. However, as its use increases and unethical use of the technology begins to populate the internet[^2] (the space where the majority of the training data came from and will come from) the AI has nothing else to feed on except what it is producing and being published online. 
+
+AI is a tool. AI is not god. It is a clever tool yes. It is perhaps one of the wonders of modern technology but it is uniquely dangerous to our well being. Dangerous in the same way undiagnosed cancer is. By the time we all finally realize the damage there will be no cutting it out.
+
+[^1]: It is fun to speculate what would happen if the snake continues eating itself. Where would the right place be to stand while observing. Of course it would be more entertaining in the middle but then where do you go once the endless coil collapses in on you?
+[^2]: January 30th 2026 Molt Book a social media platform just for AI agents. An endless hellscape of generative conversation, the dead internet personified. One can only hope to observe the hilarity when ultimately the content of Molt Book is used to train the next generation of AI agents. Xerox had nothing on what is to come. 
